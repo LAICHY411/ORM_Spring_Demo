@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a16eb695-ddf9-49e7-99bc-7fe80bbc98f9)Activité Pratique N°2 - ORM JPA HIbernate et Spring Data
+Activité Pratique N°2 - ORM JPA HIbernate et Spring Data
 
 Architecture de base :
 
